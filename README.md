@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Jeff-Mitchell
-- 🌱 I’m currently learning Software Development and Neural Networks 
+- 🌱 I’m currently studying Software Development and Neural Networks at Queen's University Belfast.
