@@ -4,7 +4,11 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeff-mitchell&show_icons=true&count_private=true)
+<img align="left" alt="" height="200px" src="https://github-readme-stats.vercel.app/api?username=jeff-mitchell&show_icons=true&count_private=true&include_all_commits=true" />
+
+
+
+<img align="middle" alt="" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-mitchell&layout=compact" />
 
 ---
 
@@ -24,9 +28,5 @@
 <img align="left" alt="Terminal" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br>
-<br>
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-mitchell&layout=default)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]:https://www.linkedin.com/in/jeff-mitchell-8554641ba/
