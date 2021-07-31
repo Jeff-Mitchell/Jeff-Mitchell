@@ -4,11 +4,11 @@
 
 ---
 
-<img align="left" alt="" height="160px" src="https://github-readme-stats.vercel.app/api?username=jeff-mitchell&show_icons=true&count_private=true&include_all_commits=true" />
+<img align="left" alt="" height="165px" src="https://github-readme-stats.vercel.app/api?username=jeff-mitchell&show_icons=true&count_private=true&include_all_commits=true" />
 
 
 
-<img align="middle" alt="" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-mitchell&layout=compact" />
+<img align="middle" alt="" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-mitchell&layout=compact" />
 
 ---
 
