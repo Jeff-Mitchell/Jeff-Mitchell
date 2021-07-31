@@ -4,7 +4,7 @@
 
 ---
 
-<img align="left" alt="" height="175px" src="https://github-readme-stats.vercel.app/api?username=jeff-mitchell&show_icons=true&count_private=true&include_all_commits=true" />
+<img align="left" alt="" height="180px" src="https://github-readme-stats.vercel.app/api?username=jeff-mitchell&show_icons=true&count_private=true&include_all_commits=true" />
 
 
 
