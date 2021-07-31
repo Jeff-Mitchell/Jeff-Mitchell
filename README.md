@@ -8,7 +8,7 @@
 
 
 
-<img align="middle" alt="" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-mitchell&layout=compact" />
+<img align="middle" alt="" height="178px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-mitchell&layout=compact" />
 
 ---
 
