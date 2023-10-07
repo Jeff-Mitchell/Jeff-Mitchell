@@ -15,10 +15,10 @@
 #### Languages and Tools:
 
 <img align="left" alt="PyCharm" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" />
-<img align="left" alt="Anaconda" width="45px" src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png" />
+<img align="left" alt="Anaconda" width="45px" src="https://raw.githubusercontent.com/kalefranz/conda-packages/master/anaconda-latest/anaconda.ico" />
 <img align="left" alt="Visual Studio Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Python" width="45px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
-<img align="left" alt="PyTorch" width="45px" src="https://symbols-electrical.getvecta.com/stencil_92/77_pytorch-icon.3e1681b72a.jpg" />
+<img align="left" alt="PyTorch" width="45px" src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4" />
 <img align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="R" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" />
