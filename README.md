@@ -4,11 +4,12 @@
 
 ---
 
-<img align="left" alt="" height="180px" src="https://github-readme-stats.vercel.app/api?username=jeff-mitchell&show_icons=true&count_private=true&include_all_commits=true" />
-
-
-
-<img align="middle" alt="" height="177px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-mitchell&layout=compact" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" alt="" height="180px" src="https://github-readme-stats.vercel.app/api?username=jeff-mitchell&show_icons=true&include_all_commits=true&card_width=403.38" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeff-mitchell&layout=compact&langs_count=8&card_width=426.04" />
+</a>
 
 ---
 
